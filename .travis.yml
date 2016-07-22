@@ -1,3 +1,5 @@
+language: rust
+
 branches:
     only:
         # Only needed if you are already using branches.only.
