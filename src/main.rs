@@ -4,4 +4,5 @@ fn main() {
     println!("hi from booyaadotorg");
     println!("and another!");
     println!("another");
+    println!("yet more!");
 }
