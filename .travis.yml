@@ -8,9 +8,9 @@ matrix:
     - rust: nightly
 
 # (causes pushes to be ignored?) branches:
-#     only:
-#         # Only needed if you are already using branches.only.
-#         - auto
+     only:
+         # Only needed if you are already using branches.only.
+         - auto
 
 notifications:
     webhooks: https://homu-ci.herokuapp.com/travis
