@@ -1,0 +1,23 @@
+== 11 Feb 2017
+[03:24] <WindowsBunny> frewsxcv: hi
+[03:25] <WindowsBunny> frewsxcv: dat winapi color
+[03:25] <WindowsBunny> the lonely cluster is from the nearly 400 unused -sys crates
+[03:26] <WindowsBunny> frewsxcv: If all versions of a crate are yanked, can you hide it from that graph?
+[03:26] <WindowsBunny> frewsxcv: If so, I'm gonna yank all the placeholders to hide them
+[03:49] <frewsxcv> I ignore whether a crate is yanked. I'll publish the code now.
+[04:01] <frewsxcv> WindowsBunny: https://github.com/frewsxcv/rust-crates-index-graph
+[07:50] <Havvy> That winapi fan is so beautiful.
+[07:50] <Havvy> Amidst chaos, here's a fan.
+[11:38] <booyaa_> i'll give gephi a go, i've tried and failed to get meaningful output using d3.js for anything graph related
+[12:17] <badboy> I installed gephi
+[12:17] <badboy> it thinks it needs to put itself on my main screen
+[12:17] <badboy> instead of the screen I put it on
+[12:17] <badboy> yey java software…
+[12:29] <skade> https://docs.google.com/document/d/1qCH0OBak-n_7TiTIqm8NDQuuv4w3yavKOa7c6oqHVDs/edit# < 
+[12:30] <Havvy> Wait. Havi is their /first/ name?
+[12:31] <badboy> Havvy: yes
+[12:32] <Havvy> I'm...I'm jealous.
+[12:33] <badboy> haha
+[12:33] <skade> posted for the mention of the rust community
+[12:35] <badboy> the Tactics & Next Steps part is not worked out all, is it?
+[13:35] <skade> well, it's a draft
